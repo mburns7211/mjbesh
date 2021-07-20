@@ -14,7 +14,7 @@
 - Command Line Shell (Terminal for me)
 
 ## **Installation**
-- git clone 
+- git clone https://github.com/mburns7211/mjbesh.git
 
 ## **Run**
 
